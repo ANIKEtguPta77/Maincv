@@ -845,7 +845,7 @@ a[target="f"]{
     display: block; width: 100%; height: 100%;
 	background: 
 		linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), 
-	url(/images/img6.png);
+	url(./images/img6.png);
 	
 	background-size:cover;
 	transform-style: preserve-3d;
