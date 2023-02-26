@@ -7,12 +7,4 @@ var typed=new Typed(".typing",{
 });
 
 
-var typed=new Typed(".load",{
-    strings:["Loading more .....,Never stopping at anything"],
-    typeSpeed:100,
-    BackSpeed:60,
-    loop:true
-});
-
-
 
